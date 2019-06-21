@@ -7,7 +7,7 @@
         2048
       ],
       "tensorPath": "https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/15568793/extracted_features.txt",
-      "metadataPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_Leukemia/Publish/DL_supervised/Data/Step4/Output/metadata_label_157pres.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_Leukemia/master/Publish/DL_supervised/Data/Step4/Output/metadata_label_157pres.tsv",
       "sprite": {
         "imagePath": "https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/15568784/sprite.png",
         "singleImageDim": [
